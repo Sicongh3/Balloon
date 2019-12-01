@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Balloon</string>
+    <string name="instruction">Use the box below to set the maximum taps to explode the ballon. Then type start to start the game.</string>
+    <string name="start">Start</string>
+    <string name="Taps">Taps</string>
+    <string name="Max">Max</string>
+    <string name="zero">0</string>
+    <string name="Restart">Restart</string>
+    <string name="Reset">Reset</string>
+
+
+
+</resources>
